@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9411dec5-3aa2-464c-9329-8efd19567cbc" name="Changes" comment="" />
+    <list default="true" id="9411dec5-3aa2-464c-9329-8efd19567cbc" name="Changes" comment="tweek" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +39,44 @@
       <option name="presentableId" value="Default" />
       <updated>1673431858208</updated>
       <workItem from="1673431859976" duration="3177000" />
+      <workItem from="1673443394811" duration="893000" />
     </task>
+    <task id="LOCAL-00001" summary="gi">
+      <created>1673443430797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673443430797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="wesite">
+      <created>1673443547380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673443547380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="address">
+      <created>1673443606603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673443606603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tweek">
+      <created>1673443645807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673443645808</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tweek">
+      <created>1673444365604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673444365604</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,5 +92,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gi" />
+    <MESSAGE value="wesite" />
+    <MESSAGE value="address" />
+    <MESSAGE value="tweek" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweek" />
   </component>
 </project>
