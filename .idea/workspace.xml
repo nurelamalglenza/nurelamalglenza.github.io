@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9411dec5-3aa2-464c-9329-8efd19567cbc" name="Changes" comment="name">
+      <change afterPath="$PROJECT_DIR$/assets/nur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nur.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -26,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -43,7 +45,7 @@
       <updated>1673431858208</updated>
       <workItem from="1673431859976" duration="3177000" />
       <workItem from="1673443394811" duration="1781000" />
-      <workItem from="1682529672625" duration="1200000" />
+      <workItem from="1682529672625" duration="1802000" />
     </task>
     <task id="LOCAL-00001" summary="gi">
       <created>1673443430797</created>
