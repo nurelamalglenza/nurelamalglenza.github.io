@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+
+
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <!-- OG Metas -->
+    <meta property="og:url"           content="https://nur.com" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="The Official Website of Nūr E.A Glenza" />
+    <meta property="og:description"   content="A non-linear journey inside Nūr E.A Glenza's corner of the internet. A world where nothing is appropriate and everything is not as it should be." />
+    <meta property="og:image"         content="https://nur.com/icons/thumb.jpg" />
+
+    <!-- Standard Metas -->
+    <meta name="description" content="A non-linear journey inside nur E.A Glenza's corner of the internet. A world where nothing is appropriate and everything is not as it should be.">
+    <meta name="keywords" content="Portfolio, Design, Operative System, Crazy Portfolios, Funny Websites, Funny Portfolios, JavaScript">
+    <meta name="author" content="Nūr E.A Glenza">
+    <meta name="language" content="EN">
+    <meta name="coverage" content="Worldwide">
+    <meta name="distribution" content="Global">
+    <meta name="rating" content="General">
+
+    <title>The Official Website of Nūr E.A Glenza</title>
+
+    <!-- Broweser Icons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon16.png">
+    <link rel="mask-icon" href="icons/foxblack.svg" color="#5bbad5">
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/foxwhite.svg">
+    <link rel="shortcut icon" href="icons/favicon16.png">
+
+
+
+    <link rel="stylesheet" href="css/font/font.css">
+    <link rel="stylesheet/less" type="text/css" href="main.less" />
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/temp.css">
+
+    <!-- OS Interaction/Animation -->
+
+    <script src="modules/libs/utils/webfont.js" charset="utf-8"></script>
+    <script src="modules/utils.js" charset="utf-8"></script>
+    <script src="modules/libs/utils/bezier.js" charset="utf-8"></script>
+    <script src="modules/libs/utils/ThrowProps.js" charset="utf-8"></script>
+    <script src="modules/libs/utils/draggable.js" charset="utf-8"></script>
+    <script src="modules/libs/utils/cssPlugin.js" charset="utf-8"></script>
+    <script src="modules/libs/utils/ease.js" charset="utf-8"></script>
+    <script src="modules/libs/TweenLite.js" charset="utf-8"></script>
+
+    <!-- OS Logic -->
+    <script src="modules/libs/logic.js" charset="utf-8"></script>
+    <script src="modules/Logic-OS.js" charset="utf-8"></script>
+
+
+    <!-- Google Analytics -->
+    <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-122101104-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <!-- End Google Analytics -->
+
+
+</head>
+<body>
+
+<!-- Loading -->
+<div id="dosLoading">
+    <div class="dosLogo">
+        <img id="dosLogoImage" src="img/icons/System/foxwhite.svg">
+        <div class="">
+            nOS 2025v1 <br>
+            Copyright (C) Nūr E.A Glenza<br><br>
+
+            E:\nūr\dir_
+        </div>
+    </div>
+
+
+    <ul id="taskList">
+    </ul>
+    <div id="dosCaretContainer">
+        <div id="dosCaret"></div>
+    </div>
+</div>
+
+<header id="OSHeader">
+
+    <div class="OS-Header" id="appMenu">
+
+    </div>
+
+    <div class="OS-Info" id="osInfo">
+
+    </div>
+
+</header>
+
+<content id="desktop">
+
+
+    <!-- WINDOWS -->
+
+    <div id="windows">
+    </div>
+
+
+
+    <!-- FILES -->
+    <div id="files">
+    </div>
+
+</content>
+
+<!-- OS DB -->
+<script src="modules/db.js" charset="utf-8"></script>
+
+<!-- OS Interactions -->
+<script src="modules/interactions.js" charset="utf-8"></script>
+
+<!-- OS State -->
+<script src="modules/components.js" charset="utf-8"></script>
+<script src="modules/boot.js" charset="utf-8"></script>
+
+
+<script src="modules/setup.js" charset="utf-8"></script>
+</body>
+</html>
