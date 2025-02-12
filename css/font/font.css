@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'NurOS';
+    src: url('NurOS.eot');
+    src: url('NurOSd41d.eot?#iefix') format('embedded-opentype'),
+        url('NurOS.woff2') format('woff2'),
+        url('NurOS.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-variant-ligatures: common-ligatures;
+}

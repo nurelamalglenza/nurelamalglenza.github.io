@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Clessidra</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Busy-Portfolio-Folder" transform="translate(-575.000000, -586.000000)">
+            <g id="Clessidra" transform="translate(575.000000, 586.000000)">
+                <circle id="Oval" fill="#FFFFFF" cx="5.5" cy="14.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="7.5" cy="14.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="7.5" cy="12.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="6.5" cy="16.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="8.5" cy="16.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="10.5" cy="16.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="9.5" cy="14.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" cx="4.5" cy="16.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(9.500000, 5.500000) rotate(-180.000000) translate(-9.500000, -5.500000) " cx="9.5" cy="5.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(7.500000, 5.500000) rotate(-180.000000) translate(-7.500000, -5.500000) " cx="7.5" cy="5.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(7.500000, 7.500000) rotate(-180.000000) translate(-7.500000, -7.500000) " cx="7.5" cy="7.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(8.500000, 3.500000) rotate(-180.000000) translate(-8.500000, -3.500000) " cx="8.5" cy="3.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(6.500000, 3.500000) rotate(-180.000000) translate(-6.500000, -3.500000) " cx="6.5" cy="3.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(4.500000, 3.500000) rotate(-180.000000) translate(-4.500000, -3.500000) " cx="4.5" cy="3.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(5.500000, 5.500000) rotate(-180.000000) translate(-5.500000, -5.500000) " cx="5.5" cy="5.5" r="1"></circle>
+                <circle id="Oval" fill="#FFFFFF" transform="translate(10.500000, 3.500000) rotate(-180.000000) translate(-10.500000, -3.500000) " cx="10.5" cy="3.5" r="1"></circle>
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="19" width="15" height="1"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="15" height="1"></rect>
+                <path d="M5.5,9.9996 C5.5,9.51724931 5.21042724,9.07256975 4.73987812,8.8284963 C2.76572213,7.80506698 1.5,5.7650564 1.5,3.4996 L1.5,0.4996 L13.5,0.4996 L13.5,3.4996 C13.5,5.7650564 12.2342779,7.80506698 10.2602218,8.82844449 C9.78957276,9.07256975 9.5,9.51724931 9.5,9.9996 C9.5,10.4825506 9.7891796,10.9264263 10.26032,11.1708065 C12.2343532,12.1952906 13.5,14.2351797 13.5,16.4996 L13.5,19.4996 L1.5,19.4996 L1.5,16.4996 C1.5,14.2351797 2.76564677,12.1952906 4.73977822,11.1707555 C5.2108204,10.9264263 5.5,10.4825506 5.5,9.9996 Z" id="Stroke-1" stroke="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

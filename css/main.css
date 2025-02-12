@@ -1,0 +1,667 @@
+@import "cleaner.css";
+/*---------------------------------------------------
+    LESS Elements 0.9
+  ---------------------------------------------------
+    A set of useful LESS mixins
+    More info at: http://lesselements.com
+  ---------------------------------------------------*/
+
+:root{
+  /* colors */
+  --yellow:#FFF200;
+  --magenta:#FF00ED;
+  --aqua:#00FFC5;
+  --blue:#0004FF;
+  --black:#000000;
+  --white:#ffffff;
+
+
+  --sunset1:#D3602B;
+  --sunset2:#D8682C;
+  --sunset3:#EA6B20;
+  --sunset4:#FB9739;
+  --sunset5:#FFB42A;
+
+
+  /* patterns */
+  --pattern-Oblique1:url("../img/patterns/Oblique-1.png");
+  --pattern-Oblique2:url("../img/patterns/Oblique-2.png");
+  --pattern-Noise1:url("../img/patterns/Noise-1.png");
+  --pattern-Noise2:url("../img/patterns/Noise-2.png");
+  --pattern-Vertical1:url("../img/patterns/Vertical-1.png");
+  --pattern-Vertical2:url("../img/patterns/Vertical-2.png");
+  --pattern-Horizontal1:url("../img/patterns/Horizontal-1.png");
+  --pattern-Horizontal2:url("../img/patterns/Horizontal-2.png");
+  --pattern-Dark1:url("../img/patterns/Dark-1.png");
+  --pattern-Dark2:url("../img/patterns/Dark-2.png");
+  --pattern-Dark2-Alt:url("../img/patterns/Dark-2-Alt.png");
+  --pattern-Dotted1:url("../img/patterns/Dotted-1.png");
+  --pattern-Dotted2:url("../img/patterns/Dotted-2.png");
+  --pattern-Dotted3:url("../img/patterns/Dotted-3.png");
+  --pattern-Dotted4:url("../img/patterns/Dotted-4.png");
+  --pattern-Dotted5:url("../img/patterns/Dotted-5.png");
+  --pattern-Dotted6:url("../img/patterns/Dotted-6.png");
+  --pattern-Deco1:url("../img/patterns/Deco-1.png");
+  --pattern-Deco2:url("../img/patterns/Deco-2.png");
+
+  --gradient-Oblique1: linear-gradient(to bottom left, var(--magenta), var(--blue), var(--aqua));
+  --gradient-Straight1: linear-gradient(to left, var(--sunset1), var(--sunset3),var(--sunset4),var(--sunset5));
+
+}
+
+
+.gradientBackground-Clean{
+  background: linear-gradient(90deg, var(--magenta), var(--blue), var(--aqua));
+  background-size: 300% 300%;
+
+  -webkit-animation: GradientAnimation 13s ease infinite;
+  -moz-animation: GradientAnimation 13s ease infinite;
+  animation: GradientAnimation 13s ease infinite;
+}
+
+.gradientBackground-Pattern{
+  background: linear-gradient(60deg, var(--sunset1), var(--sunset3), var(--sunset4), var(--sunset5),var(--blue),var(--aqua));
+  background-size: 260% 100%;
+
+  -webkit-animation: GradientAnimation 6s linear infinite;
+  -moz-animation: GradientAnimation 6s ease infinite;
+  animation: GradientAnimation 6s linear infinite;
+}
+.gradientBackground-Pattern::before{
+  content: "";
+  background: var(--pattern-Dark2);
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+
+
+
+
+
+
+@-webkit-keyframes GradientAnimation {
+  0%{background-position:0% 0%}
+  100%{background-position:100% 0%}
+}
+@-moz-keyframes GradientAnimation {
+  0%{background-position:0% 0%}
+  100%{background-position:100% 0%}
+}
+@keyframes GradientAnimation {
+    0%{background-position:0% 0%}
+    100%{background-position:100% 0%}
+}
+
+
+
+
+
+
+
+
+* {
+    -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+    width: 3px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--pattern-Dark2), var(--white)
+}
+
+
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+
+body {
+  background-image: url("../img/tunis.jpg");
+  font-family: 'NurOS', monospace;
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  overflow: hidden;
+  height: 100%;
+}
+
+
+
+
+
+header {
+  background-color: #000000;
+  width: 100%;
+  height: 26px;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+content {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+
+
+
+#dosLoading p{
+  max-width: 500px;
+}
+
+#dosLoading{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--black);
+  z-index: 999999;
+  font-size: 14px;
+  text-transform: uppercase;
+  overflow: hidden;
+  color: var(--white);
+  line-height: 22px;
+  letter-spacing: 3.6px
+}
+
+.dosLogo{
+  display: flex;
+  height: 140px;
+  align-items: center;
+  font-size: 19px;
+    text-transform: none;
+    letter-spacing: 0;
+    padding-top: 30px;
+
+}
+
+
+#dosLogoImage{
+  width: 125px;
+  margin: 40px;
+}
+
+#taskList{
+  padding: 40px 0px 0px 40px;
+}
+
+#dosCaretContainer{
+  padding: 10px 0px 40px 40px;
+}
+
+#dosCaret{
+  width: 10px;
+  height: 20px;
+  background-color: white;
+  animation: caretBlinker 800ms steps(2, start) infinite;
+}
+
+@keyframes caretBlinker {
+  0%   { opacity: 0; }
+  50%   { opacity: 0; }
+  51%   { opacity: 1; }
+  100% { opacity: 1; }
+}
+
+
+
+
+
+.minimisedOverlay{
+  position: fixed;
+  /* background-color: rgba(0,0,0,0.5); */
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 8888;
+}
+
+
+
+.OS-Header li {
+  /*background-color: red;*/
+  float: left;
+  padding: 7px 10px;
+}
+#App-Name {
+  font-weight: bold;
+}
+#OS-Icon {
+  width: 14px;
+  height: 14px;
+  background-color: #4d4d4d;
+  float: left;
+}
+
+#OS-mark {
+  float: left;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+
+#OS-logo{
+  float: left;
+  background-color: grey;
+  padding: 7px 10px;
+}
+
+#files{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 10px;
+    top: 60px;
+    flex-wrap: wrap;
+    height: 80%;
+}
+
+
+.file {
+  /* position: absolute; */
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--white);
+  margin: 15px;
+}
+
+.fileHeadless {
+
+
+  width: 100px;
+    height: 100px;
+    display: none;
+    left: 40px;
+    top: -110px;
+    position: absolute;
+    pointer-events: none;
+}
+
+
+.file-icon {
+  margin: 10px;
+  width: 70px;
+  height: 70px;
+
+}
+.file-label {
+  text-align: center;
+  font-size: 10px;
+  padding: 6px 6px 4px 6px;
+  letter-spacing: 1.06px;
+  line-height: 14px;
+  margin-top: 3px;
+}
+
+
+
+
+.fileLarge {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--white);
+  margin: 8px;
+}
+
+
+.file-iconLarge {
+  margin: 10px;
+  width: 200px;
+  height: 146px;
+  box-sizing: border-box;
+  border: solid 1px var(--blue);
+  background-size: cover;
+  background-position: center;
+
+}
+.file-labelLarge {
+  text-align: center;
+  font-size: 10px;
+  padding: 8px 9px 6px 10px;
+  letter-spacing: 1.06px;
+  line-height: 14px;
+  margin-top: 6px;
+
+}
+
+
+
+
+#keyboard {
+  top: 300px;
+  right: 56px;
+}
+#keyboard-icon,
+#keyboard-canvas {
+  background-color: #ff6060;
+}
+#work {
+  top: 500px;
+  right: 156px;
+}
+#work-icon,
+#work-canvas {
+  background-color: #ffea60;
+}
+#music {
+  top: 100px;
+  right: 56px;
+}
+#music-icon,
+#music-canvas {
+  background-color: #60ffa4;
+}
+#game {
+  top: 600px;
+  right: 56px;
+}
+#game-icon,
+#game-canvas {
+  background-color: #5460ff;
+}
+#wireless-canvas {
+  background-color: #2C253B;
+}
+#ebay-canvas {
+  background-color: #202020;
+}
+#canberra-canvas {
+  background-color: #de6464;
+}
+
+.app-frame {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+  -webkit-box-shadow: 0 35px 36px rgba(255, 0, 0, 0.1);
+  -moz-box-shadow: 0 35px 36px rgba(255, 0, 0, 0.1);
+  box-shadow: 0 35px 36px rgba(255, 0, 0, 0.1);
+  visibility: hidden;
+}
+.app-toolbar {
+  background-color: #000000;
+  width: 100%;
+  height: 12px;
+  display: flex;
+  justify-content: center;
+  background-image: url("../img/details/DoubleLine.png");
+  background-repeat: repeat-x;
+  background-position-y: center;
+}
+
+
+.canvas{
+  /* width: 100%;
+  height: 100%; */
+  position: relative;
+  overflow: hidden;
+}
+
+.app-placeholderContainer{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 3;
+  position: absolute;
+  background-color: var(--black);
+
+}
+
+
+.app-placeholderImage{
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  z-index: 3;
+
+
+}
+
+.app-placeholderLoading{
+  width: 100px;
+  height: 100px;
+  background-image: url("../img/icons/System/clessidra.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: rotateClessidra  ease-in-out 1s infinite;
+  transform-origin: 50% 50%;
+
+}
+
+@keyframes rotateClessidra {
+  0% {transform:  rotate(0deg) ;}
+   20% {transform:  rotate(180deg);}
+   50% {transform:  rotate(180deg);}
+   70% {transform:  rotate(360deg);}
+   100% {transform:  rotate(360deg);}
+}
+
+
+
+.app-controls {
+  position: absolute;
+  left: 0;
+  background-color: black;
+  padding-right: 5px;
+}
+.app-title {
+  text-align: center;
+  font-size: 9px;
+  letter-spacing: 1.67px;
+  padding: 2px 15px;
+  color: white;
+  background-color: black;
+}
+ul.app-controls li {
+  width: 7px;
+  height: 7px;
+  float: left;
+  margin: 3px 0;
+  margin-left: 5px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+ul.app-controls li:hover{
+  background: var(--black)!important;
+}
+
+ul.app-controls li:active{
+  box-shadow: var(--white) inset 0px 0px 0px 2px !important;
+}
+
+
+
+#red {
+  background-color: var(--magenta);
+  box-shadow: var(--magenta) inset 0px 0px 0px 2px;
+}
+#yellow {
+  background-color: var(--yellow);
+  box-shadow: var(--yellow) inset 0px 0px 0px 2px;
+}
+#green {
+  background-color: var(--aqua);
+  box-shadow: var(--aqua) inset 0px 0px 0px 2px;
+}
+.visible {
+  visibility: visible;
+}
+.selected {
+
+  color: var(--white);
+}
+
+.selected .file-icon, .selected .file-iconLarge{
+  box-shadow: var(--blue) 0px 0px 0px 6px;
+  background-color: var(--blue);
+}
+
+.selected .file-label, .selected .file-labelLarge{
+  background-color: var(--blue);
+}
+
+
+.appHeader{
+  height: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+
+}
+
+.folderHeader{
+  align-items: center;
+  justify-content: space-between;
+  background: var(--pattern-Dark2), var(--white);
+  position: fixed;
+  top: 12px;
+  left: 0;
+}
+
+.docHeader{
+  align-items: center;
+  justify-content: space-between;
+  background: var(--pattern-Dark2), var(--blue);
+  position: fixed;
+  top: 12px;
+  left: 0;
+}
+
+.appHeaderButton{
+    width: 200px;
+    text-align: center;
+    height: 8px;
+    padding: 14px;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 3.67px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+a.appHeaderButton {
+  text-decoration: none;
+}
+
+.uploadButton{
+  background-color: var(--black);
+  color: var(--white);
+  overflow: hidden;
+  position: relative;
+}
+
+.uploadButton input[type=file] {
+  font-size: 200px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+
+.yellowButton{
+  background-color: yellow;
+  color: black;
+}
+
+.magentaButton{
+  background-color: magenta;
+  color: black;
+}
+
+.blackButton{
+  background-color: black;
+  color: white;
+}
+
+
+
+.lavoro {
+  width: 150px;
+  height: 100px;
+  float: left;
+  background-color: #75eaff;
+  margin: 20px;
+}
+
+
+
+
+
+
+.tooltipContainer{
+  background-color: var(--yellow);
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 13px 5px;
+  z-index: 99999999;
+  max-width: 96px;
+  text-align: center;
+  border: 1px solid;
+  color: black;
+}
+
+.tooltipImage{
+  background-size:cover;
+  width: 70px;
+  height: 70px;
+  margin-bottom: 10px
+}
+
+.tooltipText{
+  font-size: 10px;
+  color: var(--black);
+  line-height: 14px;
+  letter-spacing: 0px;
+}
+
+
+.tooltipScroll{
+  width:70px;
+  height: 70px;
+  margin-top: -35px;
+  margin-left: -35px;
+  left: 50%;
+  bottom: 20px;
+  position: absolute;
+  z-index: 99999999;
+  background-size: cover;
+}
+
+.tooltip-white{
+  background-image: url("../img/icons/System/scroll-tooltip-white.gif");
+}
+
+.tooltip-black{
+  background-image: url("../img/icons/System/scroll-tooltip-black.gif");
+}

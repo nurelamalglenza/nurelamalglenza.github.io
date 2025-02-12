@@ -1,0 +1,674 @@
+.illegalTeal{
+  background-color: var(--aqua);
+}
+
+.illegalBlue{
+  background-color: var(--blue);
+}
+.illegalBlack{
+  background-color: var(--black);
+}
+.illegalMagenta{
+  background-color: var(--sunset4);
+}
+.illegalYellow{
+  background-color: var(--sunset5);
+}
+
+.dark-illegalTeal{
+  background: var(--pattern-Dark2), var(--aqua);
+}
+
+.dark-illegalBlue{
+  background: var(--pattern-Dark2), var(--blue);
+}
+.dark-illegalBlack{
+  background: var(--pattern-Dark2), var(--black);
+}
+.dark-illegalMagenta{
+  background: var(--pattern-Dark2), var(--magenta);
+}
+.dark-illegalYellow{
+  background: var(--pattern-Dark2), var(--yellow);
+}
+
+
+.dark-illegalTeal-Alt{
+  background: var(--pattern-Dark2-Alt), var(--aqua);
+}
+
+.dark-illegalBlue-Alt{
+  background: var(--pattern-Dark2-Alt), var(--blue);
+}
+
+.semiDark-illegalTeal{
+  background: var(--pattern-Dotted3), var(--aqua);
+}
+
+.semiDark-illegalYellow{
+  background: var(--pattern-Dotted3), var(--yellow);
+}
+
+.semiDark-illegalBlue{
+  background: var(--pattern-Dotted3), var(--blue);
+}
+
+
+
+.darkPattern{
+  background: var(--pattern-Dark2);
+}
+
+
+
+
+
+
+
+.OS-Header li:hover {
+  background-color: blue;
+  color: white;
+
+}
+
+
+
+.dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+}
+
+.menuListContainer {
+    position: relative;
+    display: inline-block;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    line-height: 13px;
+}
+
+.dropdownContent {
+    display: none;
+    position: absolute;
+    background-color: var(--white);
+    min-width: 211px;
+    z-index: 999999999;
+    margin-left: 0px;
+    box-shadow: 0 21px 26px rgba(255, 0, 0, 0.04);
+}
+
+/* Dropdowns Dotted Shadow */
+/* .dropdownContent::after{
+  content: "";
+  background: var(--pattern-Dotted4);
+  width: 100%;
+  height: 115%;
+  display: inline-block;
+  position: absolute;
+  top: 0%;
+  left: -5%;
+  z-index: -1;
+} */
+
+
+.dropdownContentDivider {
+    width: 100%;
+    height: 1px;
+    background-color: var(--black);
+}
+
+.patternedShadow{
+
+}
+
+.patternedShadow::after{
+  content: "";
+  background: var(--pattern-Dark2);
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 5%;
+  left: -3%;
+  z-index: -1;
+}
+
+
+.patternedShadow-Large{
+
+}
+
+.patternedShadow-Large::after{
+  content: "";
+  background: var(--pattern-Dotted4);
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 11%;
+  left: -12%;
+  z-index: -1;
+}
+
+
+.dropdownContent a {
+    color: var(--black);
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    background: var(--white);
+}
+
+.menuListContainer a:hover {
+  background-color: var(--sunset5);
+  color: var(--white);
+}
+
+.columnHeader{
+  padding: 7px 20px 6px 20px;
+}
+
+#systemHeader{
+  background: var(--gradient-Straight1);
+  background-size: 150% 150%;
+  background-position: center;
+  padding: 7px 40px 6px 56px;
+  margin-right: 20px;
+  /* height: 26px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center; */
+}
+
+
+
+#systemHeader-mainLogo{
+  background-image: url('../img/icons/System/foxwhite.svg');
+  width: 25px;
+  height: 21px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  position: absolute;
+  left: 15px;
+  top: 2px;
+}
+
+
+.selectedHeader #systemHeader-mainLogo{
+  background-image: url('../img/icons/System/foxblack.svg');
+}
+
+
+
+
+
+.show {display:block;}
+
+.selectedHeader{
+  background-color: var(--sunset5);
+  color: var(--white);
+}
+
+#systemHeader.selectedHeader{
+  background: var(--sunset3);
+  color: var(--black);
+}
+
+#appMenu{
+
+}
+#osInfo{
+  margin-left: 10px;
+    margin-right: 20px;
+}
+
+#clockContainer{
+text-align: right;
+}
+
+#clockHeader{
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+  font-size: 12px;
+  padding: 8px 20px 5px 20px;
+}
+
+
+
+
+#clock-dropdown{
+  width: 550px;
+  height: 500px;
+  position: absolute;
+  /* TEMP */
+  margin-left: -389px;
+  background-color: var(--black);
+}
+
+
+
+
+#clockFaceContainer{
+  background-color: var(--white);
+  width: 60%;
+  height: 100%;
+  font-size: 12px;
+  float: left;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+#clockDecriptionContainer{
+  float: left;
+  color: var(--white);
+  padding: 30px 37px;
+  width: 40%;
+  box-sizing: border-box;
+  text-align: left;
+}
+
+.calendarInfo{
+  margin-bottom: 20px;
+}
+
+.clockDescriptionHeader{
+      font-size: 10px;
+      color: var(--aqua);
+}
+
+#clockYearHeading{
+  margin-top: 70px;
+}
+
+
+#clockPercentage{
+  font-size: 38px;
+  letter-spacing: 0.5px;
+  line-height: 18px;
+  padding-top: 20px;
+}
+
+
+#yearPercentageGroup{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+#solarSystemContainer{
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#solarSystemCanvas{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+
+#earthContainer{
+  width: 47px;
+  height: 6px;
+  position: relative;
+  z-index: 1;
+
+}
+
+#earthShape{
+  width: 6px;
+  height: 6px;
+  background-color: var(--aqua);
+  border-radius:10px
+}
+
+
+
+
+
+
+#dayViewDescriptionHeader{
+
+  color: var(--black);
+  font-size: 10px;
+  margin-left: 36px;
+  margin-top: 30px;
+}
+
+#clockDescriptionBody{
+  font-size: 10px;
+  text-transform:none;
+  letter-spacing: 0.66px;
+  line-height: 17px;
+}
+
+
+
+.clockFaceNumberLabels{
+  position: absolute;
+  right: -43px;
+  width: 35px;
+  text-align: left;
+  color: var(--black);
+  font-size: 10px;
+  letter-spacing: 0.66px;
+}
+
+#number25{
+  margin-top: 0px;
+}
+
+#number20{
+  margin-top: 1px;
+}
+
+#number10{
+  margin-top: 7px;
+}
+
+#number5{
+  margin-top: 20px;
+}
+
+.clockFaceVerticalLabels{
+  transform: rotate(-90deg);
+  text-align: center;
+  position: absolute;
+  width: 165px;
+  height: 20px;
+  left: -10px;
+  transform-origin: left;
+  color: var(--black);
+  font-size: 10px;
+}
+
+#clockLabelA{
+  top: 185px;
+}
+
+
+
+#clockLabelB{
+  top: 370px;
+}
+
+
+
+#blocksContainer{
+  box-sizing: border-box;
+  width: 251px;
+  position: relative;
+  left: 36px;
+
+}
+
+
+
+.block{
+  /* background: linear-gradient(to bottom right, red, yellow); */
+  /* border-right: solid 1px #a2a2a261; */
+  box-shadow: inset 0 -1px #6968683d,
+  -1px 0 #6968683d;
+  float: left;
+}
+
+
+.block:last-child{
+  border-right: none;
+}
+
+
+.blocksRow{
+  /* box-shadow:
+  border-bottom: solid 1px #a2a2a261; */
+  display: flex;
+}
+
+
+
+.blocksRow:last-child{
+  border-bottom: none;
+}
+
+.blocksSection{
+  border: solid 1px black;
+  margin-bottom: 20px;
+
+}
+
+
+
+
+.block25{
+  width: 4%;
+  padding-top:4%;
+}
+
+.block20{
+  width: 5%;
+  padding-top:5%;
+}
+
+.block10{
+  width: 10%;
+  padding-top:10%;
+}
+
+.block5{
+  width: 20%;
+  padding-top:20%;
+}
+
+
+.blockGone{
+  background-color: var(--black);
+  /* border-color: black; */
+}
+
+.blockCurrent{
+  /* background: linear-gradient(134deg, #ff0202, #0282ff, #eeff02);
+  background-size: 600% 600%; */
+  position: relative;
+
+  /* -webkit-animation: AnimationName 6s ease infinite;
+  -moz-animation: AnimationName 6s ease infinite;
+  animation: AnimationName 6s ease infinite; */
+}
+
+
+
+#secondsSignal{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--sunset5);
+  top: 0%;
+  transform: scale(1);
+}
+
+
+
+#minutesSignal{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--sunset5);
+  top: 0%;
+  transform: scale(1);
+
+  background: linear-gradient(134deg, var(--magenta), var(--blue), var(--yellow));
+  background-size: 600% 600%;
+
+
+  -webkit-animation: AnimationName 6s ease infinite;
+  -moz-animation: AnimationName 6s ease infinite;
+  animation: AnimationName 6s ease infinite;
+}
+
+
+
+/* .blockCurrent::after{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  transform: scale(1);
+} */
+
+
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+
+.fullWidth{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.fullWidthSpaced{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+
+
+.oneThirdCentered{
+  width: 33%;
+  display: block;
+  margin: 0 auto;
+}
+
+.centered{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.centered-retina{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.centered-retinaSpaced{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+
+
+.centeredSpaced{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+
+.imageSpacer{
+  width: 100%;
+  height: 100px;
+  background: red;
+}
+
+
+
+
+
+
+
+/* ///////////////////////// */
+
+.unsupported_mobileHeader{
+  position: absolute;
+  top: -40px;
+}
+
+.unsupported_mobileMessage{
+  position: relative;
+  top: 50%;
+  bottom: 50%;
+  margin-top: -25%;
+}
+
+.unsupported_mobileMessage img{
+  width: 85%;
+}
+
+
+.unsupported_mobileLinks{
+  position: absolute;
+  bottom: 4%;
+  left: 8%;
+  line-height: 24px;
+  font-size: 11px;
+}
+
+.unsupported_mobileLinks a{
+  text-decoration: none;
+  color: var(--black);
+}
+
+
+
+.shutDownCircle{
+  width: 4000px;
+  height: 4000px;
+  border-radius: 4000px;
+  box-shadow: inset 0 0 0 0 rgb(0,0,0);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -2000px;
+  margin-top: -2000px;
+  box-sizing: border-box;
+  z-index: 9999999999999;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+  .menuListContainer.utils{
+    display: none;
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="132px" viewBox="0 0 7 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>img/trimBar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App/Drummer/Desktop" transform="translate(-277.000000, -36.000000)">
+            <g id="Group-6" transform="translate(46.000000, 15.000000)">
+                <g id="img/trimBar" transform="translate(231.000000, 21.000000)">
+                    <polyline id="Line" stroke="#00FFC5" stroke-linecap="square" points="4.5 0.468302728 0.5 8.66159879 4.5 16.8548949 0.5 25.0481909 4.5 33.241487 0.5 41.434783 4.5 49.6280791 0.5 57.8213752 4.5 66.0146712 0.5 74.2079673 4.5 82.4012633 0.5 90.5945594 4.5 98.7878555 0.5 106.981152 4.5 115.174448 0.5 123.367744 4.5 131.56104"></polyline>
+                    <rect id="Rectangle-6" fill="#00FFC5" x="2" y="127" width="5" height="5"></rect>
+                    <rect id="Rectangle-6" fill="#00FFC5" x="2" y="0" width="5" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
