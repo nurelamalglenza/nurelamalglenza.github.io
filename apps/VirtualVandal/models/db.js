@@ -312,7 +312,7 @@ var hiddenApps = [
       "info": {
         "name": {
           "full": "Portfolio",
-          "file": "MY_W0RK",
+          "file": "MY_PERSONAL_W0RK",
           "id": "portfolio"
         },
         "description": "A wonderful orchestra of millions of colours",

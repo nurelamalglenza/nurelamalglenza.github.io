@@ -354,7 +354,7 @@ chatExe.elaborateReply = function(message){
   var reply = 'no reply';
   if(intentions.requestAnswer){
     replies = [
-      "You ask me? I'm a cat",
+      "You ask me? I'm a fennec",
       "What the cat should I know??",
       "Everyone knows cmon..."
     ];
