@@ -1,73 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
-    <title>Icons/Apps/Portfolio</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons/Apps/Portfolio">
-            <polygon id="Shadow" stroke="#000000" stroke-width="2" fill="#000000" points="0 26 57 26 57 46.9683556 57 67 0 67"></polygon>
-            <g id="Shading-1" transform="translate(1.000000, 28.000000)" fill="#FFF200">
-                <rect id="Rectangle-3" x="52" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="48" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="44" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="40" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="36" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="32" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="28" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="24" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="20" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="16" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="12" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="8" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="4" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="36" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="32" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="28" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="24" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="20" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="16" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle-3" x="0" y="0" width="2" height="2"></rect>
-            </g>
-            <g id="Folder" transform="translate(5.000000, 7.000000)" stroke="#000000" stroke-width="2">
-                <polygon id="Rectangle-4" fill="#000000" points="0 0 24.3908749 0 44.5036415 41 0 41"></polygon>
-                <rect id="Rectangle-4" fill="#00FFC5" x="0" y="4" width="50" height="51"></rect>
-                <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="9" width="55" height="44"></rect>
-                <rect id="Rectangle-2" fill="#FF00ED" x="0" y="14" width="60" height="41"></rect>
-            </g>
-            <g id="Shading-2" transform="translate(33.000000, 28.000000)" fill="#000000">
-                <rect id="Rectangle" x="0" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="4" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="8" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="12" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="16" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="20" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="24" y="12" width="2" height="2"></rect>
-                <rect id="Rectangle" x="0" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="4" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="8" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="12" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="16" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="20" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="24" y="8" width="2" height="2"></rect>
-                <rect id="Rectangle" x="0" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="4" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="8" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="12" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="16" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="20" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="24" y="4" width="2" height="2"></rect>
-                <rect id="Rectangle" x="0" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle" x="4" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle" x="8" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle" x="12" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle" x="16" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle" x="20" y="0" width="2" height="2"></rect>
-                <rect id="Rectangle" x="24" y="0" width="2" height="2"></rect>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;stroke-width:2;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFF200;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#EA6B20;stroke:#000000;stroke-width:2;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFB42A;stroke:#000000;stroke-width:2;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<g id="Design">
+	<g id="Icons_x2F_Apps_x2F_Portfolio">
+		<polygon id="Shadow" class="st0" points="0,26 57,26 57,47 57,67 0,67 		"/>
+		<g id="Shading-1" transform="translate(1.000000, 28.000000)">
+			<rect id="Rectangle-3" x="52" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000053512685692393083890000007135398965006465165_" x="48" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000054260534435394678970000004816280238098677927_" x="44" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000079457846196248458250000015838614026062851230_" x="40" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000149363903970347413100000006690582184293573822_" x="36" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000106860761362882502200000002483495066969207211_" x="32" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000150824063934560634520000013483607975665539456_" x="28" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000117672915364339950570000017385849296881884292_" x="24" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000018199150129953304310000001093948528012211634_" x="20" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000016791058540061129870000008788411033448145597_" x="16" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000072989078610855045080000011430331063595028145_" x="12" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000088128834827105186570000016021696269401802415_" x="8" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000081635329836413293020000015484392292326444726_" x="4" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000017475822096000628050000005039264416355569292_" y="36" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000029039407774853933290000000509348118447065995_" y="32" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000121239230158139785840000010386963549623957430_" y="28" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000137838784342072047220000011336993356405161653_" y="24" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000095309687151193456410000003955963584023581056_" y="20" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000132797130850384668210000008810506738060804540_" y="16" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000009563199090956335620000005904868231616156810_" y="12" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000128466545710815944360000003966928050282881667_" y="8" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000000212210836266188440000016750895916219190668_" y="4" class="st1" width="2" height="2"/>
+			<rect id="Rectangle-3_00000171701939016920742460000017947889921501132682_" class="st1" width="2" height="2"/>
+		</g>
+		<g id="Folder" transform="translate(5.000000, 7.000000)">
+			<polygon id="Rectangle-4" class="st0" points="0,0 24.4,0 44.5,41 0,41 			"/>
+			<rect id="Rectangle-4_00000183969034062321648320000012437483906848177083_" y="4" class="st2" width="50" height="51"/>
+			<rect id="Rectangle-4_00000033336992825243118170000001389845223082332312_" y="9" class="st3" width="55" height="44"/>
+			<rect id="Rectangle-2" y="14" class="st4" width="60" height="41"/>
+		</g>
+		<g id="Shading-2" transform="translate(33.000000, 28.000000)">
+			<rect id="Rectangle" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000085953411614867605310000012714679333486284463_" x="4" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000170240498474181658660000013566918173241552787_" x="8" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000052817726916211234050000004335307979545344932_" x="12" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000081621992980313285080000018191516923900172967_" x="16" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000052808256493938544870000017665724495496317324_" x="20" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000158751303536021871220000017767484047865370758_" x="24" y="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000015329370349191614510000014507622708259535763_" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000115512905481637655330000017306448175088154032_" x="4" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000033346687072352814600000010397268775832500413_" x="8" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000177446107810582554130000003329123514450698171_" x="12" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000132807377569940911810000000273601993654419626_" x="16" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000136400752538706484310000016134256928921591716_" x="20" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000173160638261392793230000013974448717309430713_" x="24" y="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000123414410264508739260000007038530885775025553_" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000056386068916306343570000017602563244523223170_" x="4" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000005985537898136075200000003842705640352637351_" x="8" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000049931190664621476450000001082551711321461900_" x="12" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000114757598667669092600000001743480752267609744_" x="16" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000118396046093745727890000010096787794205535889_" x="20" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000084527088712732668530000010803030669838984348_" x="24" y="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000070812222204082396770000017292819990741505417_" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000124858569302761853090000010133981693984408988_" x="4" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000017480782686001108300000003366263618432660876_" x="8" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000155845025577542840140000015641065863882680469_" x="12" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000049917376348762020930000011377603718149865905_" x="16" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000176031810917916519760000005336075101300146862_" x="20" class="st5" width="2" height="2"/>
+			<rect id="Rectangle_00000078023256804082274900000007802192967121456283_" x="24" class="st5" width="2" height="2"/>
+		</g>
+	</g>
+</g>
 </svg>
