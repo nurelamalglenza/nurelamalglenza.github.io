@@ -346,7 +346,7 @@ components.infoMenu = function(){
     osInfoMenu.onclick = toggleOSMenu();
 
     //Add CLOCK
-    components.clock(osInfoMenu);
+ //   components.clock(osInfoMenu);
 
 }
 
