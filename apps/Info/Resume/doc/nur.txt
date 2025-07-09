@@ -1,20 +1,14 @@
-
-
-      ___         ___
-     /__/\       /  /\                           Nūr El Amal Glenza
-     \  \:\     /  /:/_                          Software Egineer UX Dsigner
-      \  \:\   /  /:/ /\
-  _____\__\:\ /  /:/_/::\
- /__/::::::::\/__/:/__\/\:\                       noorelamelglenza@gmail.com
- \  \:\~~\~~\/\  \:\ /~~/:/                       +4917643382624
-  \  \:\       \  \:\  /:/                        Germany
-   \  \:\       \  \:\/:/
-    \  \:\       \  \::/
-     \__\/        \__\/
-
-
-
-
+      ___           ___
+     /__/\         /  /\
+     \  \:\       /  /:/_                              Nūr El Amal Glenza
+      \  \:\     /  /:/ /\                             Software Egineer UX Dsigner
+  _____\__\:\   /  /:/_/::\
+ /__/::::::::\ /__/:/__\/\:\
+ \  \:\~~\~~\/ \  \:\ /~~/:/                           noorelamelglenza@gamil.com
+  \  \:\  ~~~   \  \:\  /:/                            +4917643382624
+   \  \:\        \  \:\/:/                           ☟ Germany
+    \  \:\        \  \::/
+     \__\/         \__\/
 
 
 
@@ -23,22 +17,22 @@
      | o o o ===================== Profile.txt =========================|
      +------------------------------------------------------------------+/
      |    _      ____   ____    _ ____                                  |/
-     |   | | /| / / /  / __ \  (_) __/                                  |/
-     |   | |/ |/ / _ \/ /_/ / / /\ \                              +---------------+
-     |   |__/|__/_//_/\____/ /_/___/                              | o o o ========|
+     |   | | /| / / /  / __ \  (_) __/                                 |/
+     |   | |/ |/ / _ \/ /_/ / / /\ \                           +---------------+
+     |   |__/|__/_//_/\____/ /_/___/                           | o o o ========|
      |                                                            |---------------+/
      +------------------------------------------------------------|  more at      |/
      |                                                            | .-----------. |/
      |   Nūr is a polymath mind whose areas of wizardry           |(             )|/
      |   range from UX, Design, Mobile and Website                | `-----------' |/
-     |   and Programming.                                         +---------------+/
+     |    Programming.                                            +---------------+/
      |                                                             /////////////////
-     |   Wildly obsessed with good ideas, art and softwares       /////////////////
-     |   Nūr has an innate attitude to stretch the boundaries          |/
+     |   Wildly obsessed with good ideas, art and softwares,       /////////////////
+     |   Nūr has an innate attitude to stretch the boundaries           |/
      |   and challenge the benchmarks.                                  |/
      |                                                                  |/
      |   Originally born in Tunisia, she now lives and works in Germany |/
-     |   as Sofware Engineer and  of UXDesigner                         |/
+     |   as Software Engineer and UX Designer.                          |/
      |                                                                  |/
      +------------------------------------------------------------------+/
       ////////////////////////////////////////////////////////////////////
@@ -55,67 +49,88 @@
 
 
 
-    âœï¸Ž    Software Engineer  , UX/DESIGN  - TOP7, Munich , Germany
-    |    Feb, 2022 â€”> Present
+    ✏️    SOFTWARE ENGINEER , UX DESIGNER  - TOP7, Munich , Germany
+    |    Feb, 2022 —> Present
     |
-    |    Developing and designing drone's remote controller
-    |    for windturbines, infrastructure and landmines.
+    |    • Developing and designing a drone remote controller Pilot app
+    |      used for wind turbines, infrastructure, and landmines.
+    |    • Applying user-centric design principles to improve product usability.
+    |    • Collaborating with cross-functional teams to deliver features on time.
+    |    • Conducting usability testing and iterating on design based on feedback.
+    |
+    |    .......................................................................
+
+
+
+    ✏️    FULLSTACK ENGINEER , PRODUCT OWNER  - All4U, Munich , Germany
+    |    Feb, 2021 —> Oct 2021
+    |
+    |    Led the design and development of a web and mobile app
+    |    tailored for physiotherapists.
+    |
+    |    Owned the product from concept to launch, shaping features
+    |    based on user needs and feedback.
+    |
+    |    Built the web app with Vue.js and the mobile app with Kotlin,
+    |    ensuring a smooth and consistent user experience.
     |
     |
+    |    Defined the roadmap, created wireframes, and developed
+    |    both front-end components.
     |
+    |    Delivered a simple, reliable, and scalable tool for managing
+    |    appointments, patient data, and therapy plans.
+    |
+    |    .......................................................................
+
+    |
+    ✏️    NATIVE MOBILE ENGINEER - Hmmh AG Bremen, Germany
+    |    Feb, 2019 —> Jan, 2021
+    |
+    |    • Developed an e-commerce mobile app for one of the largest
+    |      fashion companies in Metzingen.
+    |    • Worked closely with design and backend teams to ensure quality
+    |      and timely delivery.
+    |    • Maintained app performance and enhanced user experience for HUGO BOSS.
+    |
+    |    .......................................................................
+    |
+    ✏️    NATIVE MOBILE ENGINEER UX DESIGNER - Points Gmbh, Stuttgart
+    |    Feb, 2018 —> Jan, 2019
+    |
+    |    • Developed Android app showcasing historical landmarks in Baden-Württemberg.
+    |    • Contributed to UX/UI improvements for Stuttgart public transportation.
+    |    • Collaborated with clients including  Schlösser und Gärten, and VVS.
+    |    • Assisted in user testing and gathering feedback for iterative design.
     |
     |    .......................................................................
     |
     |
-    âœï¸Ž    FULLSTACK ENGINEER , UX/DESIGN  - All4U, Munich , Germany
-    |    Feb, 2021 â€”> Oct, 2021
+    ✏️    FULLSTACK ENGINEER & PRODUCT OWNER - Innsen Collective, Tunis
+    |    Dec, 2012 —>
     |
-    |    Developing and designing a web application with Vue JS
-    |    and mobile application with kotlin for physiotherapists.
+    |    Leading the product vision and development of Enssan Collective’s
+    |    e-commerce platform aimed at empowering artisans in the Global South.
+    |    The platform is currently undergoing a major update to enhance its
+    |    functionality and reach.
     |
-    |
-    |
-    |
-    |    .......................................................................
-    |
-    |
-    âœï¸Ž    NATIVE MOBILE ENGINEER - Hmmh AG Bremen, Germany
-    |    Feb, 2019 â€”> Jan, 2021
-    |
-    |    Developing an e-commerce mobile application for
-    |    one of the largest fashion company in Metzingen.
-    |
-    |    Â® Clients: HUGO BOSS
-    |
+    |    • Own the full product lifecycle, applying agile methodologies
+    |      and user-centered design principles.
+    |    • Develop and maintain web application using modern
+    |      full-stack technologies.
+    |    • Define strategic roadmaps aligned with evolving business goals
+    |      and user needs.
+    |    • Lead UX research and design to ensure accessibility and cultural fit.
+    |    • Received national recognition with the Intel Ideation Prize
+    |      for best idea and implementation.
     |
     |    .......................................................................
-    |
-    |
-    âœï¸Ž    NATIVE MOBILE ENGINEER UX DESIGNER - Points Gmbh, Stuttgart
-    |    Feb, 2018 â€”> Jan, 2019
-    |
-    |     Developed an Android mobile app or the historical landmarks
-    |     in BADEN-WÜRTTEMBERG.
-    |
-    |    Part of the UX UI team for a public transportation in Stuttgart
-    |     helping create the user experience for their next product.
-    |
-    |   Â® Clients: Landesmuseum,SCHLÖSSER UND GÄRTEN, VVS
-    |
-    |    .......................................................................
-    |
-    |
-    âœï¸Ž    FULLSTACK ENGINEER - Enssan, Tunis
-    |    Dec, 2012 â€”> May 2015
-    |
-    |    Developing my own social Enterprise Enssan : Empowering
-    |    and providing an equal access to all women in Tunisia through e-commerce
-    |    channels.
+
     |
     |
     |
-    |
-    â–
+    ■
+
 
 
 
@@ -127,18 +142,19 @@
 
 
 
-    âš¯    BACHELOR DEGREE OF COMPUTER SCIENCE  - Gafsa, Tunisia
+    ⚯    BACHELOR DEGREE OF COMPUTER SCIENCE  - Gafsa, Tunisia
     |    2011 -> 2015
     |
     |
     |    .......................................................................
     |
     |
-    âš¯    MASTER DEGREE IN COMPUTER SCIENCE ENGINEEERING - Tunis , TUNISA
+    ⚯    MASTER DEGREE IN COMPUTER SCIENCE ENGINEEERING - Tunis , TUNISA
     |    2015 -> 2019
     |
     |
-    â–
+    ■
+
 
 
 
@@ -155,13 +171,12 @@
     |    /_/ |_|__/|__/\_,_/_/|_/____/___/                                     |/
     *                                                                          */
     |                                                                          |/
+    |                                                                          |/
     *                                                                          */
     |                                                                          |/
-    *  â—¬ INTEL IDEATION PRIZE                                            */
-    |  ENSSAN”>NATIONAL PRIZE FOR BEST IDEA AND IMPLEMNTATION               |/
+    *  ◪ INTEL IDEATION PRIZE                                                   */
+    |   Inssen ”>NATIONAL PRIZE FOR BEST IDEA AND IMPLEMNTATION                                    |/
     *                                                                          */
-    |                                                                          |/
-
     |                                                                          |/
     *                                                                          */
     |  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  |/
@@ -184,13 +199,13 @@
                                           +----------------------+
                                           | o o o ==  Sketch   ==|
                                           +---+------------------+---+
-                                          |   | o o o ==  AdobeXD  ==|
+                                          |   | o o o ==  Adobe XD  ==|
         +----------------------+          |   +---+------------------+---+
-        | o o o =  UX UI      =|          |   |   | o o o ==   Ai       ==|
+        | o o o = UX UI =|          |   |   | o o o ==      Ai         ==|
         +---+------------------+---+      |   |   +----------------------+
         |   | o o o ==  Web Dev  ==|      +---+   |  +-------+  +------+ |
         |   +---+------------------+---+      |   |  |@@@@@@@|  +------+ |
-        |   |   | o o o ==Mobile Dev ==|      +---+  |@@@@@@@|  +------+ |
+        |   |   | o o o == Mobile Dev==|      +---+  |@@@@@@@|  +------+ |
         |   |   +---+--------------+---+          |  +-------+  +------+ |
         +---+   |   |              |   |          +----------------------+
             |   |   |   +----------+---+-------+
@@ -198,30 +213,30 @@
                 |   |   +---+------------------+---+
                 +---+---+   | o o o ==  VueJS    ==|
                         |   +---+------------------+---+
-                        |   |   | o o o ==   Jira    ==|
+                        |   |   | o o o ==  Jira   ==|
                         |   |   +----------------------+
                         +---+   |  +----------------+  |
                             |   |  |@@@+------------+--+------+
                             +---+  |@@@| o o o == Agile Dev ==|
                                 |  +---+---+------------------+---+
-                                +------+   | o o o ==  Scrum     ==|
+                                +------+   | o o o ==  Scrum    ==|
                                        |   +---+------------------+---+
-                                       |   |   | o o o == API & DB ==|
+                                       |   |   | o o o ==  API & DB   ==|
         +----------------------+       |   |   +----------------------+
-        | o o o ==  JAVA     ==|       +---+   |  --------- +-------+ |
+        | o o o ==   JAVA     ==|       +---+   |  --------- +-------+ |
         +---+------------------+---+       |   |   .-.  .-. |@@@@@@@| |
-        |   | o o o == AE        ==|       +---+  (   )(   )|@@@@@@@| |
+        |   | o o o ==AE ==|       +---+  (   )(   )        |@@@@@@@| |
         |   +---+------------------+           |   `-'  `-' +-------+ |
         |   |@@@|        +-------+ |           +----------------------+
         |   |@@@|        +-------+ |
         +---+@@@|    +-------+     |    +----------------------+
             |@@@|    +-------+     |    |                      |
-            +---+------------------+    |       {KOTLIN}       |--+
+            +---+------------------+    |      {Kotlin}        |--+
                                         |                      |  |
                                         +----------------------+  |
                                         +-------------------------+
         +-------------------------+     |         +-------------------+
-        |        Languages        |     +------>  |      <Android>    |
+        |        Languages        |     +------>  |   <Android>       |
         +-------------------------+               +-------------------+
 
         +---------+     +---------+       +---------+
@@ -232,9 +247,9 @@
         | #  #  # |     |///   ###|       | #  #  # |
         +---------+     +---------+       +---------+
         |               |                 |
-        -               -
+        -               -                  -
 
-        English        French             Arabic
+        English           French        Arabic
 
 
 
@@ -253,7 +268,7 @@
 
          .-.
         (   )  .---------------------------.
-         `-'  (   Search nurelamelglenza     )
+         `-'  ( Search nurelamelglenza  )
             \  `---------------------------'
 
 
