@@ -1,293 +1,177 @@
-      ___           ___
+___           ___
      /__/\         /  /\
-     \  \:\       /  /:/_                              Nūr El Amal Glenza
-      \  \:\     /  /:/ /\                             Software Egineer UX Dsigner
-  _____\__\:\   /  /:/_/::\
- /__/::::::::\ /__/:/__\/\:\
- \  \:\~~\~~\/ \  \:\ /~~/:/                           noorelamelglenza@gamil.com
-  \  \:\  ~~~   \  \:\  /:/                            +4917643382624
-   \  \:\        \  \:\/:/                           ☟ Germany
+     \  \:\       /  /:/_                              NOUR EL AMAL GLENZA
+      \  \:\     /  /:/ /\                             SOFTWARE ENGINEER // UX
+  _____\__\:\   /  /:/_/::\                            + PRODUCT OWNER
+ /__/::::::::\ /__/:/__\/\:\                           -----------------------
+ \  \:\~~\~~\/ \  \:\ /~~/:/                           noorelamelglenza@gmail.com
+  \  \:\  ~~~   \  \:\  /:/                            +491738720884
+   \  \:\        \  \:\/:/                             Based in Germany
     \  \:\        \  \::/
      \__\/         \__\/
 
 
 
 
+
+
+
+
+
      +------------------------------------------------------------------+
-     | o o o ===================== Profile.txt =========================|
+     | [o][o][o] ================= NOUR ?   ==================== [X][X] |
      +------------------------------------------------------------------+/
-     |    _      ____   ____    _ ____                                  |/
-     |   | | /| / / /  / __ \  (_) __/                                 |/
-     |   | |/ |/ / _ \/ /_/ / / /\ \                           +---------------+
-     |   |__/|__/_//_/\____/ /_/___/                           | o o o ========|
+     |   _      ____  ____     ___   _  ____                            |/
+     |  | | /| / / / / / __ \   / _ \ (_)/ __/                          |/
+     |  | |/ |/ / _  \/ /_/ /  / // / / /\ \                      +---------------+
+     |  |__/|__/_//_/\____/  /____/ /_/___/                       | [+][-][X]     |/
      |                                                            |---------------+/
      +------------------------------------------------------------|  more at      |/
-     |                                                            | .-----------. |/
-     |   Nūr is a polymath mind whose areas of wizardry           |(             )|/
-     |   range from UX, Design, Mobile and Website                | `-----------' |/
-     |    Programming.                                            +---------------+/
+     |                                                            | .-----------.|/
+     |   Nour is a polymath mind working at the intersection      |(  EXPLORE ME )|/
+     |   of software engineering, UX design, and mobile           | `-----------'|/
+     |   architecture.                                            +---------------+/
      |                                                             /////////////////
-     |   Wildly obsessed with good ideas, art and softwares,       /////////////////
-     |   Nūr has an innate attitude to stretch the boundaries           |/
-     |   and challenge the benchmarks.                                  |/
+     |   She’s obsessed with good ideas and clean code, always     /////////////////
+     |   pushing to stretch the boundaries of what software             |/
+     |   can actually do.                                               |/
      |                                                                  |/
-     |   Originally born in Tunisia, she now lives and works in Germany |/
-     |   as Software Engineer and UX Designer.                          |/
+     |   Originally from Tunisia, now living in Germany, she            |/
+     |   bridges the gap between complex backend logic and              |/
+     |   intuitive user experiences.                                    |/
+     |                                                                  |/
+     |   Today she is growing into product management: she owns         |/
+     |   roadmaps, turns user needs into shippable features, and        |/
+     |   holds a Scrum Alliance Product Owner certificate.              |/
      |                                                                  |/
      +------------------------------------------------------------------+/
       ////////////////////////////////////////////////////////////////////
-      ////////////////////////////////////////////////////////////////////
 
 
+       _______  __  __________ ______________  _  __
+      / __/ _ \/ / / / ___/ _ /_  __/  _/ __ \/ |/ /
+     / _// // / /_/ / /__/ __ |/ / _/ // /_/ /    /
+    /___/____/\____/\___/_/ |_/_/ /___/\____/_/|_/
+
+    ✏ M.Sc. COMPUTER SCIENCE ENGINEERING                         2015 - 2019
+    |   Tunis, Tunisia
+
+    ✏ B.Sc. COMPUTER SCIENCE                                     2011 - 2015
+    |   Gafsa, Tunisia
 
 
-               _  _____  _______  _ _____  ___________
-          ___ | |/_/ _ \/ __/ _ \(_) __/ |/ / ___/ __/
-         / -_)>  </ ___/ _// , _/ / _//    / /__/ _/
-         \__/_/|_/_/  /___/_/|_/_/___/_/|_/\___/___/
+       _____  _____  _______  _________  ___________
+      / __/ |/_/ _ \/ __/ _ \/  _/ __/ |/ / ___/ __/
+     / _/_>  </ ___/ _// , _// // _//    / /__/ _/
+    /___/_/|_/_/  /___/_/|_/___/___/_/|_/\___/___/
 
-
-
-
-    ✏️    SOFTWARE ENGINEER , UX DESIGNER  - TOP7, Munich , Germany
-    |    Feb, 2022 —> Present
+    ✏ SOFTWARE ENGINEER & UX DESIGNER                     FEB 2022 - PRESENT
+    |   TOP7 · Munich
     |
-    |    • Developing and designing a drone remote controller Pilot app
-    |      used for wind turbines, infrastructure, and landmines.
-    |    • Applying user-centric design principles to improve product usability.
-    |    • Collaborating with cross-functional teams to deliver features on time.
-    |    • Conducting usability testing and iterating on design based on feedback.
+    |   * Building a drone remote control app for industrial use (wind
+    |     turbines, landmine detection, etc.).
+    |   * Designing the pilot workflow to keep things safe and simple in
+    |     high-pressure environments.
+    |   * Handling the full cycle: from rough wireframes to shipping
+    |     production-ready code in an Agile setup.
     |
-    |    .......................................................................
+    ........................................................................
 
-
-
-    ✏️    FULLSTACK ENGINEER , PRODUCT OWNER  - All4U, Munich , Germany
-    |    Feb, 2021 —> Oct 2021
+    ✏ FULLSTACK ENGINEER & PRODUCT OWNER                 FEB 2021 - OCT 2021
+    |   All4U · Munich
     |
-    |    Led the design and development of a web and mobile app
-    |    tailored for physiotherapists.
+    |   * Built a healthcare platform for physiotherapists from scratch.
+    |   * Managed the product roadmap while coding the web app (Vue.js) and
+    |     the mobile app (Kotlin).
+    |   * Turned user feedback into real features, handling both design and
+    |     technical implementation.
     |
-    |    Owned the product from concept to launch, shaping features
-    |    based on user needs and feedback.
+    ........................................................................
+
+    ✏ NATIVE MOBILE ENGINEER                             FEB 2019 - JAN 2021
+    |   Hmmh AG · Bremen
     |
-    |    Built the web app with Vue.js and the mobile app with Kotlin,
-    |    ensuring a smooth and consistent user experience.
+    |   * Developed high-end e-commerce apps for HUGO BOSS.
+    |   * Focused on app performance and smooth checkout flows for a global
+    |     fashion user base.
     |
+    ........................................................................
+
+    ✏ NATIVE MOBILE ENGINEER & UX DESIGNER               FEB 2018 - JAN 2019
+    |   Points GmbH · Stuttgart
     |
-    |    Defined the roadmap, created wireframes, and developed
-    |    both front-end components.
+    |   * Built Android apps for historical tourism in Baden-Württemberg.
+    |   * Improved the UX for VVS Stuttgart to make public transport
+    |     navigation less of a headache.
     |
-    |    Delivered a simple, reliable, and scalable tool for managing
-    |    appointments, patient data, and therapy plans.
+    ........................................................................
+
+    ✏ FOUNDER & PRODUCT OWNER                                DEC 2012 - 2015
+    |   Innsen Collective · Tunis
     |
-    |    .......................................................................
-
+    |   * Created an e-commerce platform to help local artisans go digital.
+    |   * Won the National Intel Ideation Prize for the implementation.
     |
-    ✏️    NATIVE MOBILE ENGINEER - Hmmh AG Bremen, Germany
-    |    Feb, 2019 —> Jan, 2021
-    |
-    |    • Developed an e-commerce mobile app for one of the largest
-    |      fashion companies in Metzingen.
-    |    • Worked closely with design and backend teams to ensure quality
-    |      and timely delivery.
-    |    • Maintained app performance and enhanced user experience for HUGO BOSS.
-    |
-    |    .......................................................................
-    |
-    ✏️    NATIVE MOBILE ENGINEER UX DESIGNER - Points Gmbh, Stuttgart
-    |    Feb, 2018 —> Jan, 2019
-    |
-    |    • Developed Android app showcasing historical landmarks in Baden-Württemberg.
-    |    • Contributed to UX/UI improvements for Stuttgart public transportation.
-    |    • Collaborated with clients including  Schlösser und Gärten, and VVS.
-    |    • Assisted in user testing and gathering feedback for iterative design.
-    |
-    |    .......................................................................
-    |
-    |
-    ✏️    FULLSTACK ENGINEER & PRODUCT OWNER - Innsen Collective, Tunis
-    |    Dec, 2012 —>
-    |
-    |    Leading the product vision and development of Enssan Collective’s
-    |    e-commerce platform aimed at empowering artisans in the Global South.
-    |    The platform is currently undergoing a major update to enhance its
-    |    functionality and reach.
-    |
-    |    • Own the full product lifecycle, applying agile methodologies
-    |      and user-centered design principles.
-    |    • Develop and maintain web application using modern
-    |      full-stack technologies.
-    |    • Define strategic roadmaps aligned with evolving business goals
-    |      and user needs.
-    |    • Lead UX research and design to ensure accessibility and cultural fit.
-    |    • Received national recognition with the Intel Ideation Prize
-    |      for best idea and implementation.
-    |
-    |    .......................................................................
-
-    |
-    |
-    |
-    ■
+    ........................................................................
 
 
+       __ ___  ______ _      ____   _______  _________
+      / //_/ |/ / __ \ | /| / / /  / __/ _ \/ ___/ __/
+     / ,< /    / /_/ / |/ |/ / /__/ _// // / (_ / _/
+    /_/|_/_/|_/\____/|__/|__/____/___/____/\___/___/
+
+    +------------------------------------------------------------------------+
+    | [o][o][X] == SKILLS.EXE                                                |
+    +------------------------------------------------------------------------+
+    |                                                                        |
+    | DESIGN  >>  [ UX / UI ]   [ ADOBE XD ]   [ CC ]   [ AI ]               |
+    |                                                                        |
+    | CODE    >>  [ WEB DEV ]   [ MOBILE ]   [ VUE.JS ]   [ KOTLIN ]         |
+    |                                                                        |
+    | TOOLS   >>  [ GIT ]                                                    |
+    |                                                                        |
+    +------------------------------------------------------------------------+
+     /////////////////////////////////////////////////////////////////////////
 
 
-            ____   ____  __    ___  __  _ ____  _  __
-           / __/__/ / / / /___/ _ |/ /_(_) __ \/ |/ /
-          / _// _  / /_/ / __/ __ / __/ / /_/ /    /
-         /___/\_,_/\____/\__/_/ |_\__/_/\____/_/|_/
+    [ LANGUAGES ]
+    ------------------------------------------------------------------------
+    ARABIC      [####################] Native
+    FRENCH      [####################] Fluent
+    ENGLISH     [####################] Fluent
+    GERMAN      [#####...............] A2
+    ------------------------------------------------------------------------
 
 
+    [ HOBBIES ]
+    +----------------------+  +----------------------+  +----------------------+
+    | [o][o][X] == POETRY  |  | [o][o][X] == PAINT   |  | [o][o][X] == PLAYLST |
+    +----------------------+  +----------------------+  +----------------------+
+    |                      |  |    ~~~     .  *      |  |  |> NOW PLAYING      |
+    | "words in, feelings  |  |   (   )  ~~~~~~~     |  |  [======>-----] 3:14 |
+    |   out"               |  |  ~~~~~~~ /\  /\      |  |  |<<   ||   >>|      |
+    |              - N.    |  |   ~~~~ /  \/  \ ~~~  |  |                      |
+    +----------------------+  +----------------------+  +----------------------+
+      Writing poetry           Painting                  Curating playlists
+                                                         for every mood
 
 
-    ⚯    BACHELOR DEGREE OF COMPUTER SCIENCE  - Gafsa, Tunisia
-    |    2011 -> 2015
-    |
-    |
-    |    .......................................................................
-    |
-    |
-    ⚯    MASTER DEGREE IN COMPUTER SCIENCE ENGINEEERING - Tunis , TUNISA
-    |    2015 -> 2019
-    |
-    |
-    ■
+    *--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*
+    |  ACHIEVEMENTS                                                         |
+    |  > Intel Ideation National Prize: Best Implementation [INSSAN]        |
+    |  > Product Owner Certificate [SCRUM ALLIANCE] - 2025                  |
+    *--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*
 
 
+       __ ____  ___  ________  __  _______
+      / // / / / / |/ /_  __/ /  |/  / __/
+     / _  / /_/ /    / / /   / /|_/ / _/
+    /_//_/\____/_/|_/ /_/   /_/  /_/___/
 
 
-
-
-
-
-
-    *--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*--*
-    |                                                                          |/
-    *       ___ _      __     ___  ___                                         */
-    |      / _ | | /| / /__ _/ _ \/ _ \___                                     |/
-    *     / __ | |/ |/ / _ `/ , _/ // (_-<                                     */
-    |    /_/ |_|__/|__/\_,_/_/|_/____/___/                                     |/
-    *                                                                          */
-    |                                                                          |/
-    |                                                                          |/
-    *                                                                          */
-    |                                                                          |/
-    *  ◪ INTEL IDEATION PRIZE                                                   */
-    |   Inssen ”>NATIONAL PRIZE FOR BEST IDEA AND IMPLEMNTATION                                    |/
-    *                                                                          */
-    |                                                                          |/
-    *                                                                          */
-    |  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  |/
-    *--------------------------------------------------------------------------*/
-      ///////////////////////////////////////////////////////////////////////////
-      ///////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-            __ ___  ______ _      ____   ____  _______  _________
-           / //_/ |/ / __ \ | /| / / /  / __ \/ __/ _ \/ ___/ __/
-          / ,< /    / /_/ / |/ |/ / /__/ /_/ / _// // / (_ / _/
-         /_/|_/_/|_/\____/|__/|__/____/\____/___/____/\___/___/
-
-
-
-                                          +----------------------+
-                                          | o o o ==  Sketch   ==|
-                                          +---+------------------+---+
-                                          |   | o o o ==  Adobe XD  ==|
-        +----------------------+          |   +---+------------------+---+
-        | o o o = UX UI =|          |   |   | o o o ==      Ai         ==|
-        +---+------------------+---+      |   |   +----------------------+
-        |   | o o o ==  Web Dev  ==|      +---+   |  +-------+  +------+ |
-        |   +---+------------------+---+      |   |  |@@@@@@@|  +------+ |
-        |   |   | o o o == Mobile Dev==|      +---+  |@@@@@@@|  +------+ |
-        |   |   +---+--------------+---+          |  +-------+  +------+ |
-        +---+   |   |              |   |          +----------------------+
-            |   |   |   +----------+---+-------+
-            +---+   |   | o o o ==   Git     ==|
-                |   |   +---+------------------+---+
-                +---+---+   | o o o ==  VueJS    ==|
-                        |   +---+------------------+---+
-                        |   |   | o o o ==  Jira   ==|
-                        |   |   +----------------------+
-                        +---+   |  +----------------+  |
-                            |   |  |@@@+------------+--+------+
-                            +---+  |@@@| o o o == Agile Dev ==|
-                                |  +---+---+------------------+---+
-                                +------+   | o o o ==  Scrum    ==|
-                                       |   +---+------------------+---+
-                                       |   |   | o o o ==  API & DB   ==|
-        +----------------------+       |   |   +----------------------+
-        | o o o ==   JAVA     ==|       +---+   |  --------- +-------+ |
-        +---+------------------+---+       |   |   .-.  .-. |@@@@@@@| |
-        |   | o o o ==AE ==|       +---+  (   )(   )        |@@@@@@@| |
-        |   +---+------------------+           |   `-'  `-' +-------+ |
-        |   |@@@|        +-------+ |           +----------------------+
-        |   |@@@|        +-------+ |
-        +---+@@@|    +-------+     |    +----------------------+
-            |@@@|    +-------+     |    |                      |
-            +---+------------------+    |      {Kotlin}        |--+
-                                        |                      |  |
-                                        +----------------------+  |
-                                        +-------------------------+
-        +-------------------------+     |         +-------------------+
-        |        Languages        |     +------>  |   <Android>       |
-        +-------------------------+               +-------------------+
-
-        +---------+     +---------+       +---------+
-        | #  #  # |     |///   ###|       | #  #  # |
-        |  # # #  |     |///   ###|       |  # # #  |
-        |#########|     |///   ###|       |#########|
-        |  # # #  |     |///   ###|       |  # # #  |
-        | #  #  # |     |///   ###|       | #  #  # |
-        +---------+     +---------+       +---------+
-        |               |                 |
-        -               -                  -
-
-        English           French        Arabic
-
-
-
-
-
-
-       x - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - x
-
-
-
-            __ ____  ___  ________  __  _______
-           / // / / / / |/ /_  __/ /  |/  / __/
-          / _  / /_/ /    / / /   / /|_/ / _/
-         /_//_/\____/_/|_/ /_/   /_/  /_/___/
-
-
-         .-.
-        (   )  .---------------------------.
-         `-'  ( Search nurelamelglenza  )
-            \  `---------------------------'
-
-
-
-       .-----------------.-----------------.-----------------.-----------------.
-       |\               /|\               /|\               /|\               /|
-       | .-------------. | .-------------. | .-------------. | .-------------. |
-       | |             | | |             | | |             | | |             | |
-       | |  .github.io | | |   Behance   | | |   facebook  | | |   Linkedin  | |
-       | |             | | |             | | |             | | |             | |
-       | '-------------' | '-------------' | '-------------' | '-------------' |
-       |/               \|/               \|/               \|/               \|
-       '-----------------'-----------------'-----------------'-----------------'
-
-
-
-
-
-
-
-
+    .-------------------. .-------------------. .-------------------.
+    |   [ LINKEDIN ]    | |     [ EMAIL ]     | |    [ WEBSITE ]    |
+    |   [ CLICK ME ]    | |    [ CLICK ME ]   | |    [ CLICK ME ]   |
+    '-------------------' '-------------------' '-------------------'
+     ///////////////////////////////////////////////////////////////
 
